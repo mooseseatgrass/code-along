@@ -20,3 +20,5 @@ function printPrimes(){
     }
 
 }
+
+printPrimes();
