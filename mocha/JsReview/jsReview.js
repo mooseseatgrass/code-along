@@ -35,6 +35,7 @@ var flavors = [
     "Moose tracks"
 ]
 
+// fix later for case sensitive
 function autoComplete(){
     var input = document.getElementById("userInput").value;
     if(isValid(input)){
